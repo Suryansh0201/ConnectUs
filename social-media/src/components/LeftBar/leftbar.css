@@ -1,0 +1,70 @@
+.main-leftbar{
+    flex: 3;
+    height: calc(100vh - 60px);
+    overflow-y: scroll;
+    position: sticky;
+    top: 60px;
+}
+.title-short{
+    font-size: 25px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-bottom: 15px;
+}
+
+.leftwrap{
+    padding: 25px;
+}
+.left-list{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.left-list-item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 23px;
+}
+
+.list-text{
+    font-size: 25px;
+    font-weight: 550;
+    margin-left: 12px;
+}
+.left-icon{
+    width: 50px;
+    height: 50px;
+}
+
+.show-more{
+    width: 150px;
+    border: none;
+    padding: 13px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.hr-left{
+    margin: 20px;
+}
+.left-shortcut-list{
+padding: 0;
+margin: 0;
+list-style: none;
+}
+.shortcuts{
+    display: flex;
+    margin-bottom: 18px;
+    align-items: center;
+}
+.shortcutimg{
+width: 60px;
+height: 60px;
+border-radius: 50%;
+object-fit: cover;
+margin-right: 12px;
+}
+.shortcutName{
+    font-size: 23px;
+    font-weight: 450;
+}

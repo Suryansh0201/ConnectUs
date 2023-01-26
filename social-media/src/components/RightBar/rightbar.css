@@ -1,0 +1,58 @@
+.main-rightbar{
+    flex: 3.5;
+}
+.right-wrap{
+    padding: 22px 22px 0px 0px;
+}
+.birth-photo{
+    margin-top: 10px;
+    width: 55px;
+    width: 55px;
+    margin-right: 10px;
+}
+.birth-text{
+    font-style: 20px;
+    font-weight: 500;
+}
+.ad{
+    width: 110%;
+    border-radius: 12px;
+    height: 55vh;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.left-friend-list{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    margin-top: 10px;
+   
+    }
+    .friends{
+        display: flex;
+        margin-bottom: 18px;
+        align-items: center;
+        margin-left: 15px;
+    }
+    .frienfImg{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 12px;
+    }
+    .friendName{
+        font-size: 23px;
+        font-weight: 400;
+    }
+    .contact{
+        margin: 20px;
+        font-size: 30px;
+        font-weight: 600;
+        margin-top: 10px;
+    }
+    .contact-right{
+        display: flex;
+        align-items: center;
+    
+    }
